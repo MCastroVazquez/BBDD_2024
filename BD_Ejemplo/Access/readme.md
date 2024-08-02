@@ -36,7 +36,7 @@ La base de datos Neptuno se utiliza para:
 Es una herramienta valiosa para estudiantes, instructores y cualquier persona interesada en aprender sobre bases de datos relacionales y su aplicación en un entorno comercial.
 
 ## Ficheros disponibles:
-- **neptuno.mdb
+- neptuno.mdb
 Versión de MS Access 2000.
-- **neptuno.accdb
+- neptuno.accdb
 Versión de MS Access 2007-2016
